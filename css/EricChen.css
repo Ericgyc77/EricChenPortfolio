@@ -25,3 +25,27 @@
  	max-height: 50%;
  }
 
+ #aboutMe
+ {
+ 	font-family: "Verdana";
+ 	font-size: 3em;
+ 	text-align: left;
+ 	position: relative;
+ 	margin-top: 725px;
+ }
+
+ .aboutMeText
+ {
+ 	font-family: "Helvetica";
+ 	font-size: 1.5em;
+ 	text-align: left;
+ 	position: relative;
+ }
+
+ #pageExtender
+ {
+ 	margin-top: 1000px;
+ }
+
+
+
